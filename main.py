@@ -16,7 +16,7 @@ unique_df = df.drop_duplicates(subset=['Title'])
 unique_df = unique_df.drop(columns=['Date'])
 
 # Define the keywords to remove
-keywords = ["Episodio", "Temporada", "Season", "Parte", "Vol.", "Capítulo", "Chapter", "Miniserie", " "]
+keywords = ["Episodio", "Temporada", "Season", "Parte", "Part", "Vol.", "Capítulo", "Chapter", "Miniserie"]
 
 # Remove keywords from 'Subtitle' and 'Season' columns
 for keyword in keywords:
