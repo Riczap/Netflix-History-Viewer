@@ -1,6 +1,8 @@
 # Netflix-History-Viewer
 ## Display a List of the Unique Entries of Your Netflix History 
 Using pandas to modify the CSV file provided by Netflix, this is a simple way to see what unique Series/Movies you've seen on Netflix without repeating entries (Episodes).
+-**Note:** Right now I only added some specific keywords in English and Spanish to avoid the repeting entries, if you are using another language please modify the Keyword list on
+**main.py**. I'll add a simpler way to add custom words later!
 ![5](https://github.com/Riczap/Netflix-History-Viewer/assets/77018982/a3d9f7e8-842e-420e-82c4-34549a4ff0ac)
 
 ## How to Use
