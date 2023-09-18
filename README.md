@@ -20,7 +20,8 @@ Using pandas to modify the CSV file provided by Netflix, this is a simple way to
 ### Download your Netflix History
 1. Open the following menu and click on **Account**.
 
-![1](https://github.com/Riczap/Netflix-History-Viewer/assets/77018982/df3d9768-a346-4f77-8af0-820f67a914fe)
+![1](https://github.com/Riczap/Netflix-History-Viewer/assets/77018982/a0edf7e5-d1dc-4d2a-9870-202dc7f0b168)
+
 
 2.  Look for your profile and select the arrow.
 
